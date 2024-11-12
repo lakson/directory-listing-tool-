@@ -1,6 +1,6 @@
-# Directory Listing Tool - [Startories](https://startories.com) 🚀
+# Directory Listing Tool - [Startories](https://startories.com?ref=github) 🚀
 
-**Boost your online visibility with Startories!** [Startories](https://startories.com) is a powerful directory listing tool designed to streamline the submission process to high-authority directories, helping companies gain quality backlinks, improve SEO rankings, and drive targeted traffic. With Startories, you can automate directory submissions and focus on scaling your business instead of spending time on manual tasks.
+**Boost your online visibility with Startories!** [Startories](https://startories.com?ref=github) is a powerful directory listing tool designed to streamline the submission process to high-authority directories, helping companies gain quality backlinks, improve SEO rankings, and drive targeted traffic. With Startories, you can automate directory submissions and focus on scaling your business instead of spending time on manual tasks.
 
 ---
 
@@ -38,7 +38,7 @@ Startories takes care of pulling the key elements needed for each directory, inc
 
 ## Get Started with Startories Today!
 
-1. **Visit** [Startories.com](https://startories.com) to explore our plans and choose the one that best suits your business needs.
+1. **Visit** [Startories.com](https://startories.com?ref=github) to explore our plans and choose the one that best suits your business needs.
 2. **Enter your website information**, and Startories will automatically retrieve your business name, logo, description, and screenshots directly from your site for accurate and consistent directory submissions.
 3. **Sit back and let Startories handle the rest!** Once your submissions are complete, you’ll receive a detailed report with submission links and statuses.
 
